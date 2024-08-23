@@ -6,7 +6,7 @@
 |--|--|--|--|--|
 | **lambda-producers** | [code producer] | NameKinesisStream | S3 | - |
 | **lambda-customer1** | [code customer1] | - | Kinesis | - |
-| **lambda-customer2 **| [code customer2] | - | Kinesis | - |
+| **lambda-customer2**| [code customer2] | - | Kinesis | - |
 
 ### View results in `CloudWatch`
 
